@@ -1,13 +1,13 @@
 {
-  "name": "ngx-admin",
-  "version": "3.0.0",
+  "name": "i-have-a-pencil",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akveo/ngx-admin.git"
+    "url": "git+https://github.com/MaxySpark/ihaveapencil.git"
   },
   "bugs": {
-    "url": "https://github.com/akveo/ngx-admin/issues"
+    "url": "https://github.com/MaxySpark/ihaveapencil/issues"
   },
   "browserslist": [
     "> 1%",
